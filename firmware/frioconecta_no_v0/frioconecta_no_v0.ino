@@ -1,5 +1,5 @@
 // FrioConecta: firmware v0 do nó de monitoramento de câmara fria
-// IFSC Câmpus São José, projeto IFSC-cooperfamilia
+// IFSC Câmpus São José, projeto IFSC-cooperamais
 //
 // Status: v0, escrito a partir da estação IoT do PJI3 (2026/1). Ainda não testado
 // em câmara fria. Serve de base para a Meta M3 (nó com rádio LoRa).

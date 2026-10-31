@@ -1,4 +1,4 @@
-# IFSC-cooperfamilia: FrioConecta
+# IFSC-cooperamais: FrioConecta
 
 **Cadeia do frio conectada, inteligente e eficiente para a agricultura familiar.**
 
