@@ -84,8 +84,8 @@ Para usar, preencha a rede Wi-Fi e o token do dispositivo no início do arquivo 
 
 IFSC Câmpus São José:
 
-- João Carlos Bez Batti, Diretor-Geral do Câmpus São José (coordenação geral)
-- Prof. Dr. Ramon Mayor Martins, Telecomunicações (coordenação técnica)
+- João Carlos Bez Batti, Diretor-Geral do Câmpus São José (coordenação geral e técnica)
+- Prof. Dr. Ramon Mayor Martins, Telecomunicações
 - Profa. Dra. Deise Monquelate Arndt, Telecomunicações
 - Prof. Dr. Diego da Silva de Medeiros, Telecomunicações
 - Prof. Dr. Marcos Antonio Garcia, Refrigeração e Ar Condicionado
